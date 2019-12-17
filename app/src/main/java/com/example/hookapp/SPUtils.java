@@ -35,7 +35,7 @@ public class SPUtils {
     }
 
     void logout(){
-        mSP.edit().putBoolean(KEY_LOGIN,true).apply();
+        mSP.edit().putBoolean(KEY_LOGIN,false).apply();
     }
 
     boolean isLogin(){
