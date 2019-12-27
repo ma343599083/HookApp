@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">plugin</string>
+    <string name="content">这是插件res的内容</string>
+</resources>
